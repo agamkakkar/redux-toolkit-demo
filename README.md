@@ -1,5 +1,5 @@
-# food-order-app
-Food Ordering App Made with React JS
+# redux-toolkit-demo
+A demo app using redux-toolkit
 
 # Getting Started with Create React App
 
